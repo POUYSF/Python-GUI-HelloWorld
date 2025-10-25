@@ -21,7 +21,7 @@ A minimal **Tkinter** GUI app built with Python that displays a simple “Hello,
 2. Go inside the project folder  
    cd Python-GUI-HelloWorld
 3. Run the app  
-   python3 test.py
+   python3 app.py
 
 ---
 
