@@ -19,7 +19,7 @@ label.pack(expand=True)
 button = tk.Button(window, text="Click Me!", font=("Arial", 14, "bold"), fg="gray", bg="#c2d6d6", command=hello)
 button.place(relx=0.5, rely=0.85, anchor="center")
 
-# بارگذاری و افزودن لوگو پایین راست
+# بارگذاری و افزودن لوگو پایتون
 logo = Image.open("Logo.png")
 logo = logo.resize((60, 60))
 logo_photo = ImageTk.PhotoImage(logo)
